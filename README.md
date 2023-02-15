@@ -1,2 +1,3 @@
-# MyGitHub-profile
-MyGitHub profile
+- 🙋‍♂️ Oi, me chamo João Victor
+- 🥳 Tenho 19 anos
+- 🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul
